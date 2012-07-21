@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 //commentaire qui sert à rien
+//TEST
 
 public class MainActivity extends Activity {
 
