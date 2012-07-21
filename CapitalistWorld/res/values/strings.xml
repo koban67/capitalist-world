@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">CapitalistWorld</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Bienvenue sur l'application Capitalist World!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
 
